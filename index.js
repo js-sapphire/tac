@@ -92,6 +92,8 @@ const printGameOver = () => {
     ctx.fillStyle = `#ffbb00`;
     ctx.font = `30px helvetica`;
     ctx.fillText(`Game over !!`, GAME_WIDTH+50, 600);
+    ctx.font = `20px helvetica`;
+    ctx.fillText(`Refresh to play again`, GAME_WIDTH+40, 750);
 }
 
 
