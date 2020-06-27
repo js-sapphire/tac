@@ -82,7 +82,7 @@ const paintScore = (score) => {
     ctx.font = `30px helvetica`;
     ctx.fillText(`That ain't confetti !!`, GAME_WIDTH+20, 200);
     ctx.font = `20px helvetica`;
-    ctx.fillText(`Cursors be your savior!!`,  GAME_WIDTH+40, 250);
+    ctx.fillText(`Arrow-keys be your savior!!`,  GAME_WIDTH+35, 250);
     ctx.fillStyle = "#fff";
     ctx.font = `25px helvetica`;
     ctx.fillText(`Score: ${score}`, GAME_WIDTH+90, 400);
