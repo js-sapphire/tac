@@ -1,4 +1,4 @@
-### Simple game in Javascript
+### That ain't confetti
 
 _Technologies used:_
 
